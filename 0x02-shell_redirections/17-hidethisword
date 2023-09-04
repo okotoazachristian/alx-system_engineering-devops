@@ -1,0 +1,2 @@
+#!/bin/bash
+gred -v "bin" /etc/passwd
